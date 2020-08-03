@@ -1,4 +1,4 @@
-# HelpfulLinuxTools
+# Helpful Linux Tools
 A configuration shell script to get started on Linux. 
 
 A shell script that will install applications that I use from snap and package manager. 
@@ -11,11 +11,24 @@ At the moment, I currently am using Ubuntu 20.04.1 LTS, so this shell script wil
 
 2) **Clone the repository by "git clone https://www.github.com/willpanderson/HelpfulLinuxTools.git"** 
 
-3) **Run command "sudo sh ./package_install_debian.sh" for Debian-based systems**
+# Debian-based systems
 
-4) **Follow the on-screen prompts to individually install each app until the script finishes executing"**
+1) Run command "sudo sh ./package_install_debian.sh" for Debian-based systems**
+
+2) **Follow the on-screen prompts to individually install each app until the script finishes executing"**
+
+
+# RHEL-based systems
+
+
+# OpenSUSE-based systems
+
+
+# Arch Linux-based systems
+
 
 # Apps Included in the Script
+
 
 **NETOWRKING AND SOCIAL**
 
