@@ -18,6 +18,7 @@ At the moment, I currently am using Ubuntu 20.04.1 LTS, so this shell script wil
 # Apps Included in the Script
 
 **NETOWRKING AND SOCIAL**
+
 Net-tools
 
 Filezilla
