@@ -13,7 +13,7 @@ At the moment, I currently am using Ubuntu 20.04.1 LTS, so this shell script wil
 
 3) **Run command "sudo sh ./package_install_debian.sh" for Debian-based systems**
 
-4) **Follow the on-screen prompts to individually install each app until the script finishes executing"
+4) **Follow the on-screen prompts to individually install each app until the script finishes executing"**
 
 # Apps Included in the Script
 
