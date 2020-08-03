@@ -19,37 +19,70 @@ At the moment, I currently am using Ubuntu 20.04.1 LTS, so this shell script wil
 
 **NETOWRKING AND SOCIAL**
 Net-tools
+
 Filezilla
+
 PuTTY
+
 Chromium browser
+
 neofetch 
+
 Putty
+
 Gimp
+
 Openconnect GUI for GNOME Interface
+
 Hyperspace Mastadon Client
+
 Discord
+
 Neofetch
+
 GNOME Tweaks
+
 GNOME Weather
+
 GNOME-Maps
 
+
 **PROGRAMMING TOOLS AND COMPILERS**
+
 GCC
+
 GDB
+
 G++
+
 GCCGo
+
 GFortran
+
 GDC
+
 OpenJDK-14
+
 Make
+
 CMake
+
 Python
+
 Ruby
+
 Perl
+
 Gnat
+
 Visual Studio Code
+
 Android Studio
+
 Data Display Debugger
+
 GTKMM and nessicary dependecies
+
 Git
 
+and others
