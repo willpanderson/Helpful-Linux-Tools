@@ -16,6 +16,7 @@ sudo apt install putty
 sudo apt-get install gimp
 sudo apt-get install openconnect network-manager-openconnect-gnome
 sudo snap install hyperspace
+sudo snap install discord
 
 echo "Installing GNOME Tweaks and Extensions.....\n\n"
 sudo apt install gnome-tweaks
