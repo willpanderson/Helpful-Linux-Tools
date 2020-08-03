@@ -27,13 +27,13 @@ PuTTY
 
 Chromium browser
 
-neofetch 
+Neofetch 
 
 Putty
 
 Gimp
 
-Openconnect GUI for GNOME Interface
+OpenConnect GUI for GNOME Interface
 
 Hyperspace Mastadon Client
 
