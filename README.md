@@ -20,7 +20,9 @@ At the moment, I currently am using Ubuntu 20.04.1 LTS, so this shell script wil
 
 
 # RHEL-based systems
+1) **Run command "sudo sh ./package_install_rhel.sh" for Debian-based systems**
 
+2) **Follow the on-screen prompts to individually install each app until the script finishes executing"**
 
 # OpenSUSE-based systems
 
