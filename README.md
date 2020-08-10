@@ -6,7 +6,7 @@ This shell script will install applications that I use from snap and package man
 
 At the moment, I currently am using Ubuntu 20.04.1 LTS and Fedora 32, so this shell script will ONLY work on Debian or RHEL based systems
 
-Additionally, I am having some issues with the snap apps and Certain Libaries on RHEL systems. Will be resolved soon.
+Additionally, I am having some issues with the snap apps and certain libaries on RHEL systems. Will be resolved soon.
 # Installation
 
 1) **Open a terminal in your distribution**
