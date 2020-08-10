@@ -36,7 +36,7 @@ Additionally, I am having some issues with the snap apps and certain libaries on
 
 **NETOWRKING AND SOCIAL**
 
-*Net-tools
+Net-tools
 
 Filezilla
 
