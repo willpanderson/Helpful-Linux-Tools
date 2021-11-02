@@ -1,52 +1,52 @@
 #!/bin/sh
  
 echo "Updating and Upgrading Distribution.....\n\n"
-sudo apt-get update
-sudo apt-get upgrade
+sudo apt-get update -y
+sudo apt-get upgrade -y
 
 
 echo "Installing Network Utilities and Apps.....\n\n"
 
-sudo apt-get install net-tools
-sudo apt-get install filezilla
+sudo apt-get install net-tools -y
+sudo apt-get install filezilla -y
 
-sudo apt install neofetch
-sudo apt install putty
-sudo apt-get install gimp
-sudo apt-get install openconnect network-manager-openconnect-gnome
+sudo apt install neofetch -y
+sudo apt install putty -y
+sudo apt-get install gimp -y
+sudo apt-get install openconnect network-manager-openconnect-gnome -y
 
 
 echo "Installing GNOME Tweaks and Extensions.....\n\n"
-#sudo apt install gnome-tweaks
-#sudo apt install gnome-extensions
-#sudo apt-get install gnome-weather
-sudo apt-get install gnome-maps
+sudo apt install gnome-tweaks -y
+sudo apt install gnome-extensions -y
+sudo apt-get install gnome-weather -y
+sudo apt-get install gnome-maps -y
 
 echo "Installing Programming Languages and Tools\n\n....."
-sudo apt-get install gcc
-sudo apt-get install gdb
-sudo apt-get install g++
-sudo apt-get install gccgo
-sudo apt-get install gfortran
-sudo apt-get install gdc
-sudo apt-get install openjdk-14-jdk
-sudo apt-get install make
-sudo apt-get install cmake
-sudo apt-get install python
-sudo apt-get install ruby
-sudo apt-get install perl
-sudo apt-get install gnat
+sudo apt-get install gcc -y
+sudo apt-get install gdb -y
+sudo apt-get install g++ -y
+sudo apt-get install gccgo -y
+sudo apt-get install gfortran -y
+sudo apt-get install gdc -y
+sudo apt-get install openjdk-14-jdk -y
+sudo apt-get install make -y
+sudo apt-get install cmake -y
+sudo apt-get install python -y
+sudo apt-get install ruby -y
+sudo apt-get install perl -y
+sudo apt-get install gnat -y
 
-sudo apt-get install ddd
-sudo apt-get install build-essential
-sudo apt install libgtkmm-3.0-dev 
-sudo apt install libgstreamermm-1.0-dev 
-sudo apt install libgtkmm-3.0-doc
-sudo apt install libgstreamermm-1.0-doc 
-sudo apt install devhelp 
-sudo apt install gtk-3-examples 
-sudo apt install gedit 
-sudo apt install at-spi2-core
+sudo apt-get install ddd -y
+sudo apt-get install build-essential -y
+sudo apt install libgtkmm-3.0-dev -y
+sudo apt install libgstreamermm-1.0-dev -y
+sudo apt install libgtkmm-3.0-doc -y
+sudo apt install libgstreamermm-1.0-doc -y
+sudo apt install devhelp -y
+sudo apt install gtk-3-examples -y
+sudo apt install gedit -y
+sudo apt install at-spi2-core -y
 
 
 
