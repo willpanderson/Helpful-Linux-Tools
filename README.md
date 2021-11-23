@@ -25,16 +25,3 @@ Additionally, I am having some issues with the snap apps and certain libaries on
 
 2) **Follow the on-screen prompts to individually install each app until the script finishes executing**
 
-# OpenSUSE-based systems
-1) **Run command "sudo sh ./package_install_suse.sh" for Debian-based systems**
-
-2) **Follow the on-screen prompts to individually install each app until the script finishes executing**
-
-
-# Arch Linux-based systems
-1) **Run command "sudo sh ./package_install_arch64.sh" for Debian-based systems**
-
-2) **Follow the on-screen prompts to individually install each app until the script finishes executing**
-
-
-
