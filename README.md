@@ -2,7 +2,7 @@
 
 A configuration shell script to get started on Linux for new programmers and users alike. 
 
-This shell script will install applications that I use from snap and package manager based on the system. 
+This shell script will install applications that I use from snap and package manager based on each individual system. 
 
 At the moment, I currently am using Ubuntu 20.04.1 LTS and Fedora 32, so this shell script will ONLY work on Debian or RHEL based systems
 
